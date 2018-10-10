@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		656E2CF9216D905800F3A999 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 656E2CF8216D905800F3A999 /* GradientView.swift */; };
 		65D4076F216C3DF4000AE3EB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D4076E216C3DF4000AE3EB /* AppDelegate.swift */; };
 		65D40774216C3DF4000AE3EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65D40772216C3DF4000AE3EB /* Main.storyboard */; };
 		65D40777216C3DF4000AE3EB /* smackApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 65D40775216C3DF4000AE3EB /* smackApp.xcdatamodeld */; };
@@ -45,6 +46,7 @@
 		3AA2620FE6CCE8BC099F3F29 /* Pods-smackAppUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-smackAppUITests.debug.xcconfig"; path = "Target Support Files/Pods-smackAppUITests/Pods-smackAppUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		5644E19553290ABF3665044A /* Pods_smackApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_smackApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		61DB91396D17329F7DB72BBB /* Pods-smackAppUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-smackAppUITests.release.xcconfig"; path = "Target Support Files/Pods-smackAppUITests/Pods-smackAppUITests.release.xcconfig"; sourceTree = "<group>"; };
+		656E2CF8216D905800F3A999 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		65D4076B216C3DF4000AE3EB /* smackApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = smackApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65D4076E216C3DF4000AE3EB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65D40773216C3DF4000AE3EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -189,6 +191,7 @@
 		65D407A5216C4603000AE3EB /* View */ = {
 			isa = PBXGroup;
 			children = (
+				656E2CF8216D905800F3A999 /* GradientView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -445,6 +448,7 @@
 			files = (
 				65D407A8216C4627000AE3EB /* ChatVC.swift in Sources */,
 				65D40777216C3DF4000AE3EB /* smackApp.xcdatamodeld in Sources */,
+				656E2CF9216D905800F3A999 /* GradientView.swift in Sources */,
 				65D4076F216C3DF4000AE3EB /* AppDelegate.swift in Sources */,
 				65D407A3216C4303000AE3EB /* SWRevealViewController.m in Sources */,
 				65D407AA216C4637000AE3EB /* ChannelVC.swift in Sources */,
